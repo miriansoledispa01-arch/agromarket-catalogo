@@ -34,3 +34,11 @@ Café - $6.50
 | Cacao  | $7.10 |
 | Cafe | $6.40 |
 
+## Filtros
+
+-Frutas
+
+-Hortalizas
+
+-Granos
+
