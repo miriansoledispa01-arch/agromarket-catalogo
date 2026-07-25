@@ -42,3 +42,4 @@ Café - $6.50
 
 -Granos
 
+Versión 1.0 publicada correctamente.
